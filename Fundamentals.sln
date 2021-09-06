@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{E8F3CC23-DA6C-453C-9BA3-B29B7703ECFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{2AF38773-916A-4B72-A804-72EB67884022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.csproj", "{2AF38773-916A-4B72-A804-72EB67884022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverEventsAndDelegates", "ObserverEventsAndDelegates\ObserverEventsAndDelegates.csproj", "{CE32087C-7BDE-4AF1-9198-1F26EA44576D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2AF38773-916A-4B72-A804-72EB67884022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AF38773-916A-4B72-A804-72EB67884022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AF38773-916A-4B72-A804-72EB67884022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE32087C-7BDE-4AF1-9198-1F26EA44576D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE32087C-7BDE-4AF1-9198-1F26EA44576D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE32087C-7BDE-4AF1-9198-1F26EA44576D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE32087C-7BDE-4AF1-9198-1F26EA44576D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
